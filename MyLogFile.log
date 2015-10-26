@@ -1,0 +1,6 @@
+May 02, 2015 5:42:16 PM prayAsyncWorker.RoutinePrayerWorkerImpl <init>
+INFO: Constructor is being called now, passing in Steve Sun as its prayerName
+May 02, 2015 5:42:17 PM prayAsyncWorker.RoutinePrayerWorkerImpl routinePray
+INFO: routinePray() method is invoked now, printing out this line:I'm excited to pray every day! Before every meal!
+May 02, 2015 5:42:17 PM prayAsyncWorker.RoutinePrayerWorkerImpl routineReadBible
+INFO: routineReadBible() method is invoked now, returning this following string:Great day, isn't it? Let's study the Bible now!
